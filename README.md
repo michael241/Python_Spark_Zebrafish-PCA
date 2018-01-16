@@ -1,5 +1,5 @@
 # Python_Spark_Zebrafish-PCA
-Synopsis: Primary Component Analysis and Feature-Based Aggregation of Zebrafish neural activity
+Primary Component Analysis and Feature-Based Aggregation of Zebrafish neural activity
 <br />
 <br />
 Motivation: Zebrafish are transparent fish, a quality that allows easy recording over its entire brain using a technique called light-sheet microscopy.  Analyzing this information requires primary component analysis(Part 3) and feature-based aggregation and primary component analysis (Part 4) in order to make the workload manageable.   
